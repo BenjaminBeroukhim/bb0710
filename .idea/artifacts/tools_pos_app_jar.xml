@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="tools-pos-app:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tools_pos_app_jar</output-path>
+    <root id="root">
+      <element id="archive" name="tools-pos-app.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="tools-pos-app" />
+      </element>
+      <element id="library" level="project" name="Maven: org.itsallcode:holiday-calculator:0.2.0" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.30" />
+    </root>
+  </artifact>
+</component>

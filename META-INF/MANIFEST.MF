@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.acme.Main
+Class-Path: holiday-calculator-0.2.0.jar slf4j-api-1.7.30.jar
+
